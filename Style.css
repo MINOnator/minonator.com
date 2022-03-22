@@ -1,0 +1,51 @@
+.Wellcome{
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+.Wellcome h2{
+    text-align: -moz-center;
+    background-color: #2e2e2b;
+
+}
+body{
+   background-color: black;
+
+
+}
+.NovoVideo{
+   background-color: #2e2e2b;
+ text-align: center;
+    border: 5px red solid;
+
+
+
+
+}
+.NovoVideo h1{
+    color: white;
+
+}
+
+.Готоввебсајт{
+    text-align: center;
+    -webkit-transition: max-height 0.7s;
+    -moz-transition: max-height 0.7s;
+    transition: max-height 0.7s;
+    background: #1594e5;
+    color: #fff;
+    font-family: Calibri, serif;
+    display: block;
+    width: 140px;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 10px;
+    text-align: center;
+    margin: 20px auto;
+    cursor: pointer;
+
+
+}
+
+
